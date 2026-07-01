@@ -5,8 +5,10 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartavyaj123/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/kartavyaj123/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartavyaj123/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/kartavyaj123/Leetcode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
