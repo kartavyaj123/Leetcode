@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/kartavyaj123/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartavyaj123/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartavyaj123/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartavyaj123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/kartavyaj123/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartavyaj123/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartavyaj123/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartavyaj123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartavyaj123/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/kartavyaj123/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -45,17 +47,32 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartavyaj123/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartavyaj123/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartavyaj123/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartavyaj123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartavyaj123/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kartavyaj123/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
