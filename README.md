@@ -29,6 +29,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/kartavyaj123/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Sorting
 |  |
@@ -37,6 +38,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartavyaj123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartavyaj123/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/kartavyaj123/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -60,6 +62,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartavyaj123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -77,6 +80,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -87,10 +91,12 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 ## Trie
 |  |
 | ------- |
