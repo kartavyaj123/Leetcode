@@ -10,6 +10,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/kartavyaj123/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartavyaj123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/kartavyaj123/Leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/kartavyaj123/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -29,6 +30,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/kartavyaj123/Leetcode/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/kartavyaj123/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Sorting
@@ -37,6 +39,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kartavyaj123/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartavyaj123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/kartavyaj123/Leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -61,6 +64,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/kartavyaj123/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartavyaj123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/kartavyaj123/Leetcode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
