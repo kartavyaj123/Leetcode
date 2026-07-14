@@ -85,6 +85,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/kartavyaj123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -96,11 +97,13 @@
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/kartavyaj123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/kartavyaj123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
@@ -109,4 +112,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/kartavyaj123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
