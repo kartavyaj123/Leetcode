@@ -11,6 +11,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartavyaj123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/kartavyaj123/Leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/kartavyaj123/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/kartavyaj123/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/kartavyaj123/Leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/kartavyaj123/Leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/kartavyaj123/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Sorting
@@ -40,6 +42,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartavyaj123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/kartavyaj123/Leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/kartavyaj123/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -65,6 +68,7 @@
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kartavyaj123/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/kartavyaj123/Leetcode/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/kartavyaj123/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -84,6 +88,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/kartavyaj123/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/kartavyaj123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -96,6 +101,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/kartavyaj123/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/kartavyaj123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
