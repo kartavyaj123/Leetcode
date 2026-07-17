@@ -81,6 +81,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/kartavyaj123/Leetcode/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kartavyaj123/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kartavyaj123/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -123,4 +124,16 @@
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/kartavyaj123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kartavyaj123/Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kartavyaj123/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kartavyaj123/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
