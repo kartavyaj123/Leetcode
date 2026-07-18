@@ -81,6 +81,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/kartavyaj123/Leetcode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/kartavyaj123/Leetcode/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kartavyaj123/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
