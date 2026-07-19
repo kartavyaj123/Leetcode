@@ -85,6 +85,7 @@
 | [0509-fibonacci-number](https://github.com/kartavyaj123/Leetcode/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kartavyaj123/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1837-sum-of-digits-in-base-k](https://github.com/kartavyaj123/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kartavyaj123/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Hash Table
 |  |
