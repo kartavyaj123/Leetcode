@@ -14,6 +14,7 @@
 | [0621-task-scheduler](https://github.com/kartavyaj123/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/kartavyaj123/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/kartavyaj123/Leetcode/tree/master/0896-monotonic-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartavyaj123/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/kartavyaj123/Leetcode/tree/master/2517-maximum-tastiness-of-candy-basket) |
