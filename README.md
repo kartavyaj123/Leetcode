@@ -116,6 +116,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kartavyaj123/Leetcode/tree/master/0022-generate-parentheses) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/kartavyaj123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -134,6 +135,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kartavyaj123/Leetcode/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/kartavyaj123/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0658-find-k-closest-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/kartavyaj123/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
