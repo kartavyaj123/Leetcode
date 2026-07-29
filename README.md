@@ -120,6 +120,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kartavyaj123/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/kartavyaj123/Leetcode/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/kartavyaj123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kartavyaj123/Leetcode/tree/master/0767-reorganize-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/kartavyaj123/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -151,6 +152,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kartavyaj123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0658-find-k-closest-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
