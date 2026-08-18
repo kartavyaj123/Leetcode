@@ -18,6 +18,7 @@
 | [0658-find-k-closest-elements](https://github.com/kartavyaj123/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/kartavyaj123/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0875-koko-eating-bananas](https://github.com/kartavyaj123/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/kartavyaj123/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/kartavyaj123/Leetcode/tree/master/0896-monotonic-array) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kartavyaj123/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -94,6 +95,7 @@
 | [0009-palindrome-number](https://github.com/kartavyaj123/Leetcode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/kartavyaj123/Leetcode/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/kartavyaj123/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0877-stone-game](https://github.com/kartavyaj123/Leetcode/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/kartavyaj123/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1837-sum-of-digits-in-base-k](https://github.com/kartavyaj123/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2769-find-the-maximum-achievable-number](https://github.com/kartavyaj123/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -147,6 +149,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/kartavyaj123/Leetcode/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/kartavyaj123/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/kartavyaj123/Leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -276,4 +279,16 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kartavyaj123/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kartavyaj123/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kartavyaj123/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kartavyaj123/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
